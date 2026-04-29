@@ -27,7 +27,7 @@ Hola, me llamo Álvaro. Estoy estudiando DAM (Desarrollo de Aplicaciones Multipl
 #### 2. MiniZelda - PyGame
 * **Descripción:** Realicé un proyecto inspirado en el videojuego Zelda, desarrollado en Python. El juego cuenta con un personaje principal, enemigos, un cofre y gemas. El objetivo es derrotar a los enemigos utilizando el arma obtenida del cofre y recoger las gemas para restaurar la paz en el bosque.
 * **Tecnologías:** Python y PyGame.
-* **Enlace:** [📥 Descargar Documentación Mini Zelda (PDF)](https://github.com/Alvaarxtus/Alvaarxtus/blob/main/Mini%20Zelda%20(2).pdf?raw=true)
+* **Enlace:** [📥 Descargar Documentación Mini Zelda (PDF)](https://docs.google.com/document/d/1aWpZivvy6Cl0JD0z71RdInEJ6rp3ex7_NWu_FrAQauQ/export?format=pdf)
 
 ---
 

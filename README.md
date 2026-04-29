@@ -17,14 +17,17 @@ Hola, me llamo Álvaro. Estoy estudiando DAM (Desarrollo de Aplicaciones Multipl
 ### Projectes Personals
 
 #### 1. Funcionamiento de los grafos en la IA (Trabajo de Recerca)
-* **Descripción:** Una investigación profunda sobre cómo la Inteligencia Artificial utiliza estructuras de grafos para procesar información. El trabajo cubre desde la evolución histórica de la IA hasta la integración de estos modelos en sectores como la salud y la industria. Incluye un análisis sobre unidades de procesamiento y toma de decisiones en sistemas inteligentes.
-* **Tecnologías:** Redes Neuronales.
-* **Enlace:** [📄 Leer Trabajo de Recerca completo](https://github.com/user-attachments/files/27216853/TR.final.pdf)
+* **Descripción:** Una investigación profunda sobre cómo la Inteligencia Artificial utiliza estructuras de grafos para procesar información. El trabajo cubre desde la evolución histórica de la IA hasta su integración en sectores críticos como la salud y la industria.
+* **Tecnologías y Conceptos clave:**
+    * **Modelos:** Deep Learning (Aprendizaje Profundo) y Redes Neuronales.
+    * **Arquitectura:** Unidades de decisión y parámetros del modelo.
+    * **Análisis:** Integración de la IA en Salud, Educación e Industria.
+* **Enlace:** [📥 Descargar Trabajo de Recerca (PDF)](https://github.com/Alvaarxtus/Alvaarxtus/blob/main/TR%20final%20.pdf?raw=true)
 
 #### 2. MiniZelda - PyGame
 * **Descripción:** Juego de aventura inspirado en los clásicos donde el jugador debe explorar un mapa, derrotar enemigos y vencer a un jefe final para restaurar la paz del bosque. Incluye mecánicas de salud con corazones y gestión de inventario con cofres.
 * **Tecnologías:** Python y PyGame.
-* **Enlace:** [📄 Ver documentación del Mini Zelda](https://github.com/user-attachments/files/27216656/Mini.Zelda.2.pdf)
+* **Enlace:** [📥 Descargar Documentación Mini Zelda (PDF)](https://github.com/Alvaarxtus/Alvaarxtus/blob/main/Mini%20Zelda%20(2).pdf?raw=true)
 
 ---
 

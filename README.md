@@ -16,8 +16,8 @@ Hola, me llamo Álvaro. Estoy estudiando DAM (Desarrollo de Aplicaciones Multipl
 
 ### Projectes Personals
 
-#### 1. Funcionamiento de los grafos en la IA (Trabajo de Recerca)
-* **Descripción:** Una investigación profunda sobre cómo la Inteligencia Artificial utiliza estructuras de grafos para procesar información. El trabajo cubre desde la evolución histórica de la IA hasta su integración en sectores críticos como la salud y la industria.
+#### 1. Funcionamiento de los grafos en la IA (TR)
+* **Descripción:** Realicé un proyecto relacionado con los grafos aplicados a la inteligencia artificial, ya que me parecía un tema muy interesante y considero que la IA tiene un gran futuro. Investigué cómo se almacena y procesa la información y desarrollé una parte práctica comparando el funcionamiento de los grafos con las paradas de metro
 * **Tecnologías y Conceptos clave:**
     * **Modelos:** Deep Learning (Aprendizaje Profundo) y Redes Neuronales.
     * **Arquitectura:** Unidades de decisión y parámetros del modelo.
@@ -25,7 +25,7 @@ Hola, me llamo Álvaro. Estoy estudiando DAM (Desarrollo de Aplicaciones Multipl
 * **Enlace:** [📥 Descargar Trabajo de Recerca (PDF)](https://docs.google.com/document/d/13tmk4C7-1pvtQAOvQvvGUkJoqR3mqS4x6nRPf70n15o/export?format=pdf)
 
 #### 2. MiniZelda - PyGame
-* **Descripción:** Juego de aventura inspirado en los clásicos donde el jugador debe explorar un mapa, derrotar enemigos y vencer a un jefe final para restaurar la paz del bosque. Incluye mecánicas de salud con corazones y gestión de inventario con cofres.
+* **Descripción:** Realicé un proyecto inspirado en el videojuego Zelda, desarrollado en Python. El juego cuenta con un personaje principal, enemigos, un cofre y gemas. El objetivo es derrotar a los enemigos utilizando el arma obtenida del cofre y recoger las gemas para restaurar la paz en el bosque.
 * **Tecnologías:** Python y PyGame.
 * **Enlace:** [📥 Descargar Documentación Mini Zelda (PDF)](https://github.com/Alvaarxtus/Alvaarxtus/blob/main/Mini%20Zelda%20(2).pdf?raw=true)
 

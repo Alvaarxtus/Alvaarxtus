@@ -22,7 +22,7 @@ Hola, me llamo Álvaro. Estoy estudiando DAM (Desarrollo de Aplicaciones Multipl
     * **Modelos:** Deep Learning (Aprendizaje Profundo) y Redes Neuronales.
     * **Arquitectura:** Unidades de decisión y parámetros del modelo.
     * **Análisis:** Integración de la IA en Salud, Educación e Industria.
-* **Enlace:** [📥 Descargar Trabajo de Recerca (PDF desde Google Docs)](AQUÍ_PEGA_TU_LINK_DE_GOOGLE_DOCS)
+* **Enlace:** [📥 Descargar Trabajo de Recerca (PDF)](https://github.com/Alvaarxtus/Alvaarxtus/blob/main/TR%20final%20%20(1).pdf?raw=true)
 
 #### 2. MiniZelda - PyGame
 * **Descripción:** Juego de aventura inspirado en los clásicos donde el jugador debe explorar un mapa, derrotar enemigos y vencer a un jefe final para restaurar la paz del bosque. Incluye mecánicas de salud con corazones y gestión de inventario con cofres.

@@ -16,11 +16,13 @@ Hola, me llamo Álvaro. Estoy estudiando DAM (Desarrollo de Aplicaciones Multipl
 
 ### Projectes Personals
 
-#### 1. TR sobre los grafos en la IA
-* **Descripción:** Realicé un proyecto relacionado con los grafos aplicados a la inteligencia artificial, ya que me parecía un tema muy interesante y considero que la IA tiene un gran futuro. Investigué cómo se almacena y procesa la información y desarrollé una parte práctica comparando el funcionamiento de los grafos con las paradas de metro.
+#### 1. Funcionamiento de los grafos en la IA (Trabajo de Recerca)
+* **Descripción:** Una investigación profunda sobre cómo la Inteligencia Artificial utiliza estructuras de grafos para procesar información. El trabajo cubre desde la evolución histórica de la IA hasta la integración de estos modelos en sectores como la salud y la industria. Incluye un análisis sobre unidades de procesamiento y toma de decisiones en sistemas inteligentes.
+* **Tecnologías:** Redes Neuronales.
+* **Enlace:** [📄 Leer Trabajo de Recerca completo](https://github.com/user-attachments/files/27216853/TR.final.pdf)
 
 #### 2. MiniZelda - PyGame
-* [cite_start]**Descripción:** Juego de aventura inspirado en los clásicos donde el jugador debe explorar un mapa, derrotar enemigos y vencer a un jefe final para restaurar la paz del bosque[cite: 1, 11]. [cite_start]Incluye mecánicas de salud con corazones y gestión de inventario con cofres[cite: 13].
+* **Descripción:** Juego de aventura inspirado en los clásicos donde el jugador debe explorar un mapa, derrotar enemigos y vencer a un jefe final para restaurar la paz del bosque. Incluye mecánicas de salud con corazones y gestión de inventario con cofres.
 * **Tecnologías:** Python y PyGame.
 * **Enlace:** [📄 Ver documentación del Mini Zelda](https://github.com/user-attachments/files/27216656/Mini.Zelda.2.pdf)
 
